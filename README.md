@@ -19,18 +19,18 @@ Desenvolvedor em formação e criador de conteúdo com foco na interseção entr
 
 | Projeto | Descrição | Tech |
 | :--- | :--- | :--- |
-| 📊 **Social Media Analytics Dashboard** | Script em Python que organiza e visualiza métricas de engajamento (simulado) para tomada de decisão estratégica. | Python, Pandas, Streamlit |
-| 🪑 **Interactive Furniture Showcase** | Micro-site interativo em JS demonstrando conceitos de UI/UX para apresentação de produtos (conceito para marca de móveis). | HTML, CSS, JavaScript |
-| 🤖 **AI Caption & Idea Generator** | Ferramenta simples que utiliza lógica de IA para gerar ideias de conteúdo e legendas baseadas em palavras-chave. | Python, JSON |
+| 📊 **Social Media Analytics Dashboard** | Script em Python que organiza e visualiza métricas de engajamento para tomada de decisão estratégica em redes sociais. | Python, Pandas, Streamlit |
+| 🪑 **Interactive Furniture Showcase** | Micro-site interativo em JS demonstrando conceitos de UI/UX para apresentação de produtos (conceito aplicado ao setor moveleiro). | HTML, CSS, JavaScript |
+| 🤖 **AI Caption & Idea Generator** | Ferramenta que utiliza lógica de IA para gerar ideias de conteúdo, ganchos (hooks) e legendas baseadas em palavras-chave. | Python, JSON |
 
 ---
 
 ### 🌍 Idiomas & Competências Complementares
-*   **Idiomas:** Português (Nativo), Inglês (Bilíngue), Alemão, Espanhol e Mandarim (Básico).
-*   **Criatividade:** Teatro, Edição de Vídeo, Criação de Jogos/Apps e Competições de IA.
+* **Idiomas:** Português (Nativo), Inglês (Bilíngue), Alemão, Espanhol e Mandarim (Básico).
+* **Criatividade & Performance:** Teatro, Edição de Vídeo, Criação de Jogos/Apps, Competições de IA e apresentações culturais internacionais.
 
 ---
 
 ### 📫 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-madrid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemadrid.bm@gmail.com)

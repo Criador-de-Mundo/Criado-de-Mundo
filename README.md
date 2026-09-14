@@ -26,7 +26,7 @@ Desenvolvedor em formação e criador de conteúdo com foco na interseção entr
 ---
 
 ### 🌍 Idiomas & Competências Complementares
-* **Idiomas:** Português (Nativo), Inglês (Bilíngue), Alemão, Espanhol e Mandarim (Básico).
+* **Idiomas:** Português (Nativo), Inglês (Bilíngue), Alemão, Espanhol.
 * **Criatividade & Performance:** Teatro, Edição de Vídeo, Criação de Jogos/Apps, Competições de IA e apresentações culturais internacionais.
 
 ---
